@@ -13,7 +13,7 @@ This is an Individual Project and basically full stack application with backend 
 
 4. In Teacher Dashboard teacher can create new student. They can create/allot tests for different student, delete perticular student data or perticular student's test data.
 
-5. In Teacher Dashboard they can get functionalities like search for student name, filter by gender, sort by age etc.
+5. In Teacher Dashboard they can access functionalities like search for student name, filter by gender, sort by age, Pagination and limit etc.
 
 ## Student's Dashboard
 6. For student role login they will navigate to Student Dashboard where they will find all alloted test by given teacher name.
@@ -39,7 +39,7 @@ I would say, thank you for reading this here. I hope you will find it helpful. I
 Feel free to reach out to us for any feedback.
 
 <hr>
-![image](https://user-images.githubusercontent.com/101566134/193666582-57be9661-9b4f-48f2-8cb1-8c09abc6ff15.png)
+
 
 
 <img src="https://user-images.githubusercontent.com/101566134/193666001-9ee084b8-a8c7-439c-bda0-99d3a3576220.png"/><hr>
